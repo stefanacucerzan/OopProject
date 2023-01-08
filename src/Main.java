@@ -31,6 +31,11 @@ public class Main {
         System.out.println("Gen: "+person3.gen);
 
         System.out.println(person3.gen);*/
-        
+        Film avatar2 = new Film(false, "Avatar 2");
+        Film motanulIncaltat = new Film(true,"Motanul Incaltat");
+        Film unFilm = new Film();
+        avatar2.afiseazaPentruCopii();
+        motanulIncaltat.afiseazaPentruCopii();
+        unFilm.afiseazaPentruCopii();
     }
 }
