@@ -30,12 +30,30 @@ public class Main {
         System.out.println("Age: "+person3.age);
         System.out.println("Gen: "+person3.gen);
 
-        System.out.println(person3.gen);*/
-        Film avatar2 = new Film(false, "Avatar 2");
-        Film motanulIncaltat = new Film(true,"Motanul Incaltat");
-        Film unFilm = new Film();
-        avatar2.afiseazaPentruCopii();
-        motanulIncaltat.afiseazaPentruCopii();
-        unFilm.afiseazaPentruCopii();
-    }
-}
+//        System.out.println(person3.gen);*/
+//        Film avatar2 = new Film(false, "Avatar 2");
+//        Film motanulIncaltat = new Film(true,"Motanul Incaltat");
+//        Film unFilm = new Film();
+//        avatar2.afiseazaPentruCopii();
+//        motanulIncaltat.afiseazaPentruCopii();
+//        unFilm.afiseazaPentruCopii();
+//    }
+//}
+//        Animal animal1 = new Animal();
+//        animal1.nume = "iepure";
+//        System.out.println(animal1.nume + "doarme");
+//        Animal animal2 = new Animal();
+//        animal2.nume = "caine";
+//        System.out.println(animal2.nume + "mananca");
+//        Animal animal3 = new Animal();
+//        animal3.nume = "pisica";
+//        System.out.println(animal3.nume+"mananca");
+//
+//        System.out.println(animal1.afiseaza());
+//
+// }}
+        Smartphone SmartphoneIOS1 = new Smartphone();
+        Smartphone SmartphoneAndroid1 = new Smartphone();
+        SmartphoneIOS1.porneste();
+        SmartphoneAndroid1.opreste();
+    }}
