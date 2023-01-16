@@ -55,5 +55,5 @@ public class Main {
         Smartphone SmartphoneIOS1 = new Smartphone();
         Smartphone SmartphoneAndroid1 = new Smartphone();
         SmartphoneIOS1.porneste();
-        SmartphoneAndroid1.opreste();
+        SmartphoneAndroid1.seOpreste();
     }}

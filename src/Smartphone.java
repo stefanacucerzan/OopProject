@@ -4,7 +4,7 @@ public class Smartphone extends Device{
     void porneste(){
         System.out.println("Telefonul porneste");
     }
-    void opreste(){
+    void seOpreste(){
         System.out.println("Telefonul se opreste");
     }
 //    private marca(){}
